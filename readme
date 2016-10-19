@@ -1,0 +1,9 @@
+* Minishell *
+
+Implementation of a basic shell:
+
+- User environment
+- Built-in command: cd, exit, setenv, unsetenv, env, hash
+- Execution of external commands
+- Simple pipes (no combination)
+- Simple redirections (no combination)
